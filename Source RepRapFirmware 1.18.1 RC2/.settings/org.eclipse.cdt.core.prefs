@@ -1,0 +1,52 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/LINK_FLAGS_1/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/LINK_FLAGS_1/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/LINK_FLAGS_1/value=-mthumb -Wl,--cref -Wl,--check-sections -Wl,--gc-sections -Wl,--entry\=Reset_Handler -Wl,--unresolved-symbols\=report-all -Wl,--warn-common -Wl,--warn-section-align -Wl,--warn-unresolved-symbols -Wl,--start-group
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/LINK_FLAGS_2/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/LINK_FLAGS_2/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/LINK_FLAGS_2/value=-Wl,--end-group -lm -gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.1027429289/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/LINK_FLAGS_1/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/LINK_FLAGS_1/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/LINK_FLAGS_1/value=-mthumb -Wl,--cref -Wl,--check-sections -Wl,--gc-sections -Wl,--entry\=Reset_Handler -Wl,--unresolved-symbols\=report-all -Wl,--warn-common -Wl,--warn-section-align -Wl,--warn-unresolved-symbols -Wl,--start-group
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/LINK_FLAGS_2/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/LINK_FLAGS_2/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/LINK_FLAGS_2/value=-Wl,--end-group -lm -gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/PATH/value=C\:\\Users\\tstern\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\4.8.3-2014q1\\bin;C\:/Program Files/Java/jre1.8.0_161/bin/server;C\:/Program Files/Java/jre1.8.0_161/bin;C\:/Program Files/Java/jre1.8.0_161/lib/amd64;C\:\\Program Files\\Microsoft MPI\\Bin\\;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\TortoiseGit\\bin;C\:\\Program Files\\Git\\cmd;C\:\\Program Files\\dotnet\\;C\:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C\:\\Program Files (x86)\\Common Files\\Intuit\\QBPOSSDKRuntime;"C\:\\Program Files (x86)\\GNU Tools ARM Embedded\\7 2017-q4-major\\bin;C\:\\cygwin64\\bin";C\:\\Users\\tstern\\AppData\\Local\\Microsoft\\WindowsApps;;C\:\\eclipse;c\:\\cygwin64\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.1275216290/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/LINK_FLAGS_1/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/LINK_FLAGS_1/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/LINK_FLAGS_1/value=-mthumb -Wl,--cref -Wl,--check-sections -Wl,--gc-sections -Wl,--entry\=Reset_Handler -Wl,--unresolved-symbols\=report-all -Wl,--warn-common -Wl,--warn-section-align -Wl,--warn-unresolved-symbols -Wl,--start-group
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/LINK_FLAGS_2/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/LINK_FLAGS_2/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/LINK_FLAGS_2/value=-Wl,--end-group -lm -gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451.286403080/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/LINK_FLAGS_1/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/LINK_FLAGS_1/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/LINK_FLAGS_1/value=-mthumb -Wl,--cref -Wl,--check-sections -Wl,--gc-sections -Wl,--entry\=Reset_Handler -Wl,--unresolved-symbols\=report-all -Wl,--warn-common -Wl,--warn-section-align -Wl,--warn-unresolved-symbols -Wl,--start-group
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/LINK_FLAGS_2/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/LINK_FLAGS_2/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/LINK_FLAGS_2/value=-Wl,--end-group -lm -gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850.241502451/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/LINK_FLAGS_1/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/LINK_FLAGS_1/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/LINK_FLAGS_1/value=-mthumb -Wl,--cref -Wl,--check-sections -Wl,--gc-sections -Wl,--entry\=Reset_Handler -Wl,--unresolved-symbols\=report-all -Wl,--warn-common -Wl,--warn-section-align -Wl,--warn-unresolved-symbols -Wl,--start-group
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/LINK_FLAGS_2/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/LINK_FLAGS_2/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/LINK_FLAGS_2/value=-Wl,--end-group -lm -gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201.976458850/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/LINK_FLAGS_1/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/LINK_FLAGS_1/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/LINK_FLAGS_1/value=-mthumb -Wl,--cref -Wl,--check-sections -Wl,--gc-sections -Wl,--entry\=Reset_Handler -Wl,--unresolved-symbols\=report-all -Wl,--warn-common -Wl,--warn-section-align -Wl,--warn-unresolved-symbols -Wl,--start-group
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/LINK_FLAGS_2/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/LINK_FLAGS_2/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/LINK_FLAGS_2/value=-Wl,--end-group -lm -gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.516195201/appendContributed=true

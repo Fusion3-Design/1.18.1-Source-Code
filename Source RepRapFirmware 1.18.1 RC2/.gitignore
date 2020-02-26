@@ -1,0 +1,7 @@
+*.d
+*.o
+!Release/*.bin
+!Release/*/*.bin
+!Release/*/*/*.bin
+*~
+*orig
